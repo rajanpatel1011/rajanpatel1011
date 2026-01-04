@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajanpatel1011
 - 👀 I’m interested in Business
-- 🌱 I’m currently learning Java Programing
-- 💞️ I’m looking to collaborate on related future project
+- 🌱 I’m currently learning Java Programming
+- 💞️ I’m looking to collaborate on related future projects
 - 📫 How to reach me rajanpatel1011@gmail.com 
 
 <!---
